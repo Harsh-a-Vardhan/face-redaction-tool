@@ -9,13 +9,13 @@ app_file: app.py
 pinned: false
 ---
 
-# Face Redaction Tool : https://huggingface.co/spaces/Harsh-a-Vardhan/face-redaction-tool
+# Face Redaction Tool : LH2 Data Labs
 
-Founder's Office Assignment LH2 Data Labs
+Tool link: https://huggingface.co/spaces/Harsh-a-Vardhan/face-redaction-tool 
 
 Removes facial PII from images by covering the **eyes** and **mouth** with
 a semi-translucent black box, while keeping the rest of the image usable
-for AI training. Handles multiple faces per image.
+for AI training. Handles multiple faces per image. Built as part of the Founder's Office assignment.
 
 ## Video Walkthrough
 
